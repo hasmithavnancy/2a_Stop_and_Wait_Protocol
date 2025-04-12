@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## Name: HASMITHA V NANCY
+## Register No: 212224040111
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
